@@ -1,2 +1,2 @@
 # marshall-event
-An evenent management site
+An Event management site
